@@ -1,0 +1,1 @@
+fetch('https://api.openweathermap.org/data/2.5/onecall?lat={lat}&lon={lon}&exclude={part}&appid={0b987a1449a56dc1a868f3f3e7255846}')
