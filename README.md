@@ -1,5 +1,10 @@
 # Weather-Dashboard
 
+This weather dashboard allows you to search any city in the United States and allows you to see the weather for the next 5 days. It will show you the date, time, temperature, humidity and UVI index for that day. It also saves your search history so you are able to look up a city you,ve already searched.
+
+click on the link below to see tbe web page 
+ https://ashleighw23.github.io/Weather-Dashboard/
+
 # 06 Server-Side APIs: Weather Dashboard
 
 ## Your Task
