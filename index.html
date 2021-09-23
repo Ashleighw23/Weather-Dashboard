@@ -5,18 +5,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weather Dashboard</title>
-    <link href="style.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
-    <h1>Current Weather</h1>
-
+    <div class="hero-nav">
+        <div class="hero-nav__inner">
+            <h1>Weather Dashboard</h1>
+            <div class="hero-nav__button">
+                <a href="#" class="btn"></a>
+            </div>
+        </div>
+    </div>
+    <div class="page-content"></div>
+<p>
     <form id="weather-form">
         <input type="text" id="search"/>
         <input type="submit" id="submit">
     </form>
 
     <div id="current"></div>
-
+    <div id="forecast"></div>
+   </p>
     <script src="script.js"></script>
 </body>
 </html>
